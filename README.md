@@ -1,2 +1,2 @@
-# design_patterns
+# Work in Progress ...
 Java Design Patterns Tutorial
