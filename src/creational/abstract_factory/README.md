@@ -16,3 +16,7 @@ it returns either ```ModernFurniture``` or ```ClassicFurniture```.
 3. So far, we just have the furniture model. In order to get furniture type which can be chair or table in our case, we call ```build()``` of the factories which is inheritic from the parent ```FurnitureFactory```.
 4. According to the given type, factories can return the corresponding type of the furniture. 
 5. To see what you can, call the ```getLabel()``` method of the furnitures which is inheritic by ```Furniture``` class.
+
+___
+For more information, please visit [this link](https://refactoring.guru/design-patterns/abstract-factory)!!!
+___
