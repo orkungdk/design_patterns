@@ -1,4 +1,4 @@
-package creational.factory_method.math;
+package creational.factory_method;
 
 /**
  * @author orkungedik

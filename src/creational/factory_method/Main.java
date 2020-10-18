@@ -1,11 +1,9 @@
 package creational.factory_method;
 
-import creational.factory_method.math.Calculator;
-
 /**
  * @author orkungedik
  */
-public class Application {
+public class Main {
 
     public static void main(String[] args) {
         System.out.println("Factory Method implementation...");

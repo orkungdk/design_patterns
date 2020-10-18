@@ -1,6 +1,6 @@
-package creational.factory_method.math.operation;
+package creational.factory_method.operations;
 
-import creational.factory_method.math.Operand;
+import creational.factory_method.Operand;
 
 /**
  * @author orkungedik
