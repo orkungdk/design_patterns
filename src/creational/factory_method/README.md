@@ -31,3 +31,5 @@ switch (operation) {
         return null;
 }
 ```
+
+For more information, please visit [this link](https://refactoring.guru/design-patterns/factory-method)
