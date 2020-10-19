@@ -8,7 +8,6 @@ ___
 
 In this example, we have a calculator that requires an arithmetic expression argument as a String to calculate the result of given expression.
 
-#### Steps: 
 1. In the Main.java, create an instance of Calculator.
 2. Calls the method "calculate" which is inside Calculator.
 3. Add an arithmetic expression to the method that you are calling. (e.g. 1 + 1)
